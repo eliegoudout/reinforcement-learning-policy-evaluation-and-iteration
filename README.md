@@ -1,6 +1,6 @@
 # Reinforcement Learning: policy evaluation and iteration
 ## Jack’s Car Rental (from Sutton & Barto's _Reinforcement Learning ─ An Introduction_)
-A small project, from this [reference book](http://incompleteideas.net/book/RLbook2020.pdf) by Sutton & Barto, that I implemented when I encountered it. The goal of this exercise, inside the chapter on **Dynamic Programming**, was to implement a _policy evaluation and iteration algorithm_, before later discussing value iteration. It is specifically designed to have a rather low dimension state space (~400), since classical DP requires to compute a complete model of the environment.
+A small project, from this [reference book](http://incompleteideas.net/book/RLbook2020.pdf) by Sutton & Barto, that I implemented when I encountered it. The goal of this exercise, in the chapter on **Dynamic Programming**, was to implement a _policy evaluation and iteration algorithm_, before later discussing value iteration. It is specifically designed to have a rather low dimension state space (~400), since classical DP requires to compute a complete model of the environment.
 
 ### Problem statement
 
