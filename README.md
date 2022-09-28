@@ -28,7 +28,7 @@ Without even taking into account the number of actions, despite the number of st
 
 Just for fun, I ran the simulation again with `max_cars_A = max_cars_B = 40`, while stating that **every** extra 10 parking spots (up to 40 max in total) still costs <span>$</span>4:
 
-![max40cars-me](https://user-images.githubusercontent.com/114467748/192852769-868b2bd4-3739-4fac-88fb-303edadec03e.png)
+![max40cars-me](https://user-images.githubusercontent.com/114467748/192899942-b1ec5fce-1c28-44de-b134-22bb2b92e6fe.png)
 
 Cheers!
 
