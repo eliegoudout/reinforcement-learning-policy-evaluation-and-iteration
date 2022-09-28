@@ -22,7 +22,7 @@ The code from this repo respectively replicates _Example **4.2**_ (upper part) a
 
 ![exercise-4 7-me](https://user-images.githubusercontent.com/114467748/192849833-ffa0c03c-d8a2-40be-adbd-b73e62cfaf10.png)
 
-Without even taking into account the number of actions, despite the number of states $\mathcal{S}\simeq 400$ being quite low, computing the entire world's dynamics still requires $O(\mathcal{S}^3)$ operations and $O(\mathcal{S}^2)$ memory space. One can quickly realize what the _curse of dimensionality_ appears quite rapidly in RL!
+Without even taking into consideration the number of actions, despite the number of states $\mathcal{S}\simeq 400$ being quite low, computing the entire world's dynamics still requires $O(\mathcal{S}^3)$ operations and $O(\mathcal{S}^2)$ memory space. One can quickly realize what the _curse of dimensionality_ appears quite rapidly in RL!
 
 ### A bit more
 
